@@ -3,7 +3,6 @@ package android.bignerdranch.com;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//Test
 public class QuizActivity extends AppCompatActivity {
 
     @Override
