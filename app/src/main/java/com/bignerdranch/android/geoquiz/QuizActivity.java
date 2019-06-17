@@ -101,7 +101,7 @@ public class QuizActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        Log.d(TAG, "onPause() called");
+        Log.d(TAG, "onStop() called");
     }
 
     @Override
